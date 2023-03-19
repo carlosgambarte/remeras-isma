@@ -1,0 +1,45 @@
+//mixin
+
+@mixin medida {
+    width: 290px;
+	height: 350px;
+}
+
+/*BUZOS*/
+
+.buzo_uno {
+	@include medida;
+}
+.buzo_dos {
+	@include medida;
+}
+.buzo_tres {
+	@include medida;
+}
+.buzo_cuatro {
+	@include medida;
+}
+.buzo_cinco {
+    @include medida;
+}
+.buzo_seis {
+	@include medida;
+}
+.buzo_siete {
+	@include medida;
+}
+.buzo_ocho {
+	@include medida;
+}
+.buzo_nueve {
+	@include medida;
+}
+.buzo_diez {
+	@include medida;
+}
+.buzo_once {
+	@include medida;
+}
+.buzo_doce {
+	@include medida;
+}
